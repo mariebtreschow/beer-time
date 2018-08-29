@@ -1,0 +1,24 @@
+{
+  "name": "beer-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariebtreschow/beer-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariebtreschow/beer-time/issues"
+  },
+  "homepage": "https://github.com/mariebtreschow/beer-time#readme",
+  "dependencies": {
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
